@@ -1,0 +1,22 @@
+{
+  "name": "my-bus-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xs9627/my-bus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xs9627/my-bus/issues"
+  },
+  "homepage": "https://github.com/xs9627/my-bus#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
